@@ -37,12 +37,6 @@ Have you built a novel MCP server? Please submit a PR to add it to this list!
 2. Ensure your linked repository has a proper README and open-source license.
 3. Open a Pull Request!
 
----
-### 🏢 About Stackaura
-This project is proudly maintained backed and sponsored by **[Stackaura](https://www.stackaura.com/)**.
-We specialize in building high-performance web applications, scalable SaaS architectures, and premium digital solutions.
-👉 **[Visit Stackaura to supercharge your next project!](https://www.stackaura.com/)**
-
 
 ---
 
@@ -61,3 +55,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
