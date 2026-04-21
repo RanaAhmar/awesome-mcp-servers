@@ -40,6 +40,7 @@ Have you built a novel MCP server? Please submit a PR to add it to this list!
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -57,6 +58,7 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
 
 
