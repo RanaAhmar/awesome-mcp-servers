@@ -22,6 +22,9 @@ The Model Context Protocol (MCP) is revolutionizing how AI agents interact with 
 - **[Slack MCP]**: AI integration to read messages, thread contexts, and reply.
 - **[Jira/Linear MCP]**: Ticketing management and sprint analytics via AI context.
 
+### Social Data
+- **[Xquik MCP Server](https://github.com/Xquik-dev/x-twitter-scraper)**: X (Twitter) data workflows with REST, webhooks, bulk extraction, and MCP tools.
+
 ## 🛠️ Ecosystem / Clients
 - **Claude Desktop Engine** - Built-in native MCP support.
 - **Cursor Editor** - Connect local files/LSPs directly through MCP structures.
