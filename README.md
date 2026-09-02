@@ -21,6 +21,7 @@ The Model Context Protocol (MCP) is revolutionizing how AI agents interact with 
 - **[Notion MCP]**: Bidirectional read/write to Notion workspaces and databases.
 - **[Slack MCP]**: AI integration to read messages, thread contexts, and reply.
 - **[Jira/Linear MCP]**: Ticketing management and sprint analytics via AI context.
+- **[BulkPublish MCP](https://github.com/azeemkafridi/bulkpublish-api)**: Confirmation-gated planning, review, scheduling, and batch publishing of social media content for AI agents. Includes [social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) and [hosted MCP documentation](https://app.bulkpublish.com/docs).
 
 ## 🛠️ Ecosystem / Clients
 - **Claude Desktop Engine** - Built-in native MCP support.
