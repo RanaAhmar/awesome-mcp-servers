@@ -18,6 +18,7 @@ The Model Context Protocol (MCP) is revolutionizing how AI agents interact with 
 - **[Terminal MCP]**: Sandboxed shell command execution.
 
 ### Productivity Tools
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - **[Notion MCP]**: Bidirectional read/write to Notion workspaces and databases.
 - **[Slack MCP]**: AI integration to read messages, thread contexts, and reply.
 - **[Jira/Linear MCP]**: Ticketing management and sprint analytics via AI context.
