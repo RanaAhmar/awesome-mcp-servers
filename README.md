@@ -12,9 +12,10 @@ The Model Context Protocol (MCP) is revolutionizing how AI agents interact with 
 
 ### Development & DevOps
 - **[Chrome DevTools MCP]**: Full Chrome extension environment binding to debug pages.
-- **[GitHub MCP]**: Native integration to manage repositories, read branches, and execute PR workflows autonomously.
-- **[Postgres MCP]**: Secure bridge for AI agents to query, introspect schemas, and manage Postgres clusters safely.
 - **[File System MCP]**: Strictly sandboxed file reading and writing capabilities for AI.
+- **[GitHub MCP]**: Native integration to manage repositories, read branches, and execute PR workflows autonomously.
+- **[Kilobat CLI](https://github.com/seifip/kilobat-cli)**: GPL-3.0-only local macOS stdio MCP server for DNS, latency, proxy and connection diagnostics.
+- **[Postgres MCP]**: Secure bridge for AI agents to query, introspect schemas, and manage Postgres clusters safely.
 - **[Terminal MCP]**: Sandboxed shell command execution.
 
 ### Productivity Tools
